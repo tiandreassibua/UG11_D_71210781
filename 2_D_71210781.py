@@ -1,5 +1,3 @@
-# input = input("Masukan string : ")
-
 # if type(input) == int:
 #     print(input,"adalah string")
   
